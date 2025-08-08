@@ -1,0 +1,3 @@
+default-rule-path: ./suricata_rules
+rule-files:
+  - local.rules
